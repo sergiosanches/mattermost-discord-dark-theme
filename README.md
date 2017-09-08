@@ -1,6 +1,8 @@
 # Mattermost "Discord" dark theme
 A theme for Mattermost trying to approach Discord's dark theme.
 
+![](screenshot.jpg)
+
 ## Usage
 In Mattermost:
 1. click on User menu, select Account Settings
