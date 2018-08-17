@@ -23,3 +23,12 @@ In Mattermost:
 
 The color scheme is also available at:
 - https://coolors.co/1e2124-2f3136-36393e-72767d-f6f6f7
+
+
+## Update August 2018
+User "mantas" on the mattermost forum provided another variant which I think better resembles discord's look and feel.  
+You can find it here: https://forum.mattermost.org/t/share-your-favorite-mattermost-theme-colors/1330/13  
+Here's the string (in case the url dies):
+```json
+{"sidebarBg":"#2F3136","sidebarText":"#9ca0a4","sidebarUnreadText":"#ffffff","sidebarTextHoverBg":"#42464D","sidebarTextActiveBorder":"#42464D","sidebarTextActiveColor":"#ffffff","sidebarHeaderBg":"#282B30","sidebarHeaderTextColor":"#ffffff","onlineIndicator":"#43B581","awayIndicator":"#FAA61A","mentionBj":"#F04747","mentionColor":"#ffffff","centerChannelBg":"#36393E","centerChannelColor":"#C0C1C2","newMessageSeparator":"#CB4445","linkColor":"#7289DA","buttonBg":"#7289DA","buttonColor":"#ffffff","mentionHighlightBg":"#3D414E","mentionHighlightLink":"#7289DA","codeTheme":"monokai"}
+```
