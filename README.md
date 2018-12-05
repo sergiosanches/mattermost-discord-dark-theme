@@ -19,10 +19,10 @@ In Mattermost:
 - ![#2F3136](https://placehold.it/15/2F3136/000000?text=+) `#2F3136`
 - ![#36393E](https://placehold.it/15/36393E/000000?text=+) `#36393E`
 - ![#72767D](https://placehold.it/15/72767D/000000?text=+) `#72767D`
-- ![#F6F6F7](https://placehold.it/15/F6F6F7/000000?text=+) `#F6F6F7`
+- ![#F2F2F2](https://placehold.it/15/F2F2F2/000000?text=+) `#F2F2F2`
 
 The color scheme is also available at:
-- https://coolors.co/1e2124-2f3136-36393e-72767d-f6f6f7
+- https://coolors.co/1e2124-2f3136-36393e-72767d-f2f2f2
 
 
 ## Update August 2018
